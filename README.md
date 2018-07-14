@@ -1,3 +1,0 @@
-# barva
-
-## Test project.
